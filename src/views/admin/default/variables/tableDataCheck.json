@@ -1,0 +1,32 @@
+[
+  {
+    "name": ["Purchase of BTC cryptocurrency", true],
+    "amount": 0.5,
+    "date": "2023-03-15",
+    "status": "completed"
+  },
+  {
+    "name": ["Sale of XYZ Company stocks", false],
+    "amount": 100,
+    "date": "2023-03-17",
+    "status": "completed"
+  },
+  {
+    "name": ["Exchange Ethereum for DeFi token", true],
+    "amount": 10,
+    "date": "2023-03-20",
+    "status": "pending"
+  },
+  {
+    "name": ["Purchase of NFT on the secondary market", true],
+    "amount": 1,
+    "date": "2023-03-22",
+    "status": "completed"
+  },
+  {
+    "name": ["Withdrawal from credit card", false],
+    "amount": 500,
+    "date": "2023-03-25",
+    "status": "completed"
+  }
+]
